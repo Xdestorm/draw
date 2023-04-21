@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T16:06:05.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="ZjEEtREVDhS7s_uyNB4N" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T16:12:00.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="MMhH7sHnJbxs0qlD1ZLo" version="21.1.1" type="github">
   <diagram name="Página-1" id="_Rhc-uSCQjHXc6IqsKza">
     <mxGraphModel dx="1345" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="QS_i8kMoI_pWKLjdnoOK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QS_i8kMoI_pWKLjdnoOK-5" target="QS_i8kMoI_pWKLjdnoOK-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QS_i8kMoI_pWKLjdnoOK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="QS_i8kMoI_pWKLjdnoOK-5" target="QS_i8kMoI_pWKLjdnoOK-17" edge="1">
+        <mxCell id="QS_i8kMoI_pWKLjdnoOK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="QS_i8kMoI_pWKLjdnoOK-5" target="QS_i8kMoI_pWKLjdnoOK-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QS_i8kMoI_pWKLjdnoOK-5" value="Consolidado filtrado" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
@@ -55,7 +55,7 @@
         <mxCell id="QS_i8kMoI_pWKLjdnoOK-15" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="314" y="650" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QS_i8kMoI_pWKLjdnoOK-17" value="Aplicar Filtro Fonasa / NO Fonasa" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QS_i8kMoI_pWKLjdnoOK-17" value="Aplicar Filtro Fonasa / NO Fonasa" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="494" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QS_i8kMoI_pWKLjdnoOK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QS_i8kMoI_pWKLjdnoOK-20" target="QS_i8kMoI_pWKLjdnoOK-6" edge="1">
